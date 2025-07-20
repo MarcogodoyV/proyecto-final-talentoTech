@@ -32,7 +32,7 @@ Este es un proyecto backend en Node.js que utiliza Firebase Firestore como base 
 | GET    | `/users/:id`   | Obtener usuario por ID     |
 | POST   | `/users`       | Crear nuevo usuario        |
 
-> ℹ️ Si se desea tener acceso a rutas protegidas (como la gestión de productos), el usuario **debe crearse con rol `admin`**.
+> ℹ️ Si se desea tener acceso a rutas protegidas (como la gestión de productos), el usuario **debe crearse con rol `admin`**. (cuenta admin por defecto usuario:admin, password: 1234)
 
 ---
 
