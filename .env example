@@ -1,0 +1,8 @@
+PORT=3000
+JWT_SECRET=secreto-super-seguro
+APIKEY=1234
+AUTHDOMAIN=https://accounts.google.com/o/oauth2/auth
+PROJECTID=iddelproyecto
+STORAGEBUCKET=bucket
+MESSAGINGSENDERID=
+APPID=appId
